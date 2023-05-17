@@ -34,6 +34,7 @@ Install and Run
 ```
 $ npm install
 $ npm run dev
+ - Run http://localhost:3000
 ```
 
     Install all the dependencies from package.json
