@@ -36,7 +36,7 @@ $ npm install
 $ npm run dev
 ```
 
-    - Install all the dependencies from package.json
+    Install all the dependencies from package.json
 
 ## About the project
 
