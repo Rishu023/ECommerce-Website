@@ -24,6 +24,72 @@ Some of the main Next.js features include:
 
 ## What all we learned
 
-- NextJS basics like setting up project, navigating between pages and data fetching
-- NextJS advanced topics like dynamic routing , image optimization
-- ReactJS including decomposing components, context API and hooks
+- NextJS basics like setting up project, navigating between pages and data fetching.
+- NextJS advanced topics like dynamic routing , image optimization , API calls , Fetching data from API.
+
+## Run Locally
+
+Install and Run
+
+```
+$ npm install
+$ npm run dev
+```
+
+    - Install all the dependencies from package.json
+
+## About the project
+
+1. Introduction to NextJS
+2. Install tools
+3. Create Next App
+4. Create Website Layout
+
+   1. create layout component
+   2. add header
+   3. add breadcrumb
+   4. add sidebar
+   5. add banner
+
+5. List Products
+   1. fetch data from api
+   2. add images
+   3. render products
+6. Create Product Details
+   1. create product page
+   2. show images
+   3. show product info
+   4. show add to cart action
+   5. add styles
+7. Handle Add To Cart
+   1. define react context
+   2. define cart items state
+   3. create addd to cart action
+   4. add reducer
+   5. create store provider
+   6. handle add to cart button
+8. Create Cart Page
+   1. create cart.js
+   2. use context to get cart items
+   3. list items in cart items
+   4. redirect to cart screen after add to cart
+9. Update Quantity In The Cart
+   1. add select box for quantity
+   2. handle select box change
+10. Save Cart Items
+    1. install js-cookie package
+    2. save and retreive cart items in cookies
+11. Create Checkout Page
+    1. create a checkout form
+    2. checkoutHandle for chekout button
+12. Create Login Form
+    1. install react hook form
+    2. create input boxes
+    3. add login button
+13. Display Thankyou message after successful checkout
+
+```
+
+Project is yet to be improved more, more feature will be added afterwards.
+
+```
